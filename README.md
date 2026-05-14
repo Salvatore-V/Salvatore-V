@@ -34,7 +34,7 @@ Estou dedicando dia e noite para conquistar meu sonho de trabalhar profissionalm
 <img width="250" height="250" alt="octocat-1778769236584" src="https://github.com/user-attachments/assets/2d4563b4-5085-4e86-a156-13c8366d4359"/><img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://cdn-wcsm.alura.com.br/2025/04/imagem14.gif" width="250" height="250">
 
 <!--Interação commits(Animação de cobrinha)-->
-![Snake animation](https://github.com/Salvatore-V/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Salvatore-V/Salvatore-V/blob/output/github-contribution-grid-snake.svg)
 
 
 *"A qualidade não é um ato, é um hábito." - Aristóteles*
