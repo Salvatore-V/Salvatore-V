@@ -23,9 +23,10 @@ Estou dedicando dia e noite para conquistar meu sonho de trabalhar profissionalm
 </div>
 
 <!--Estatísticas GitHub-->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Salvatore-V&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salvatore-V&layout=compact&theme=tokyonight"/>
+<div>
+<a href="https://github.com/Salvatore-V">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salvatore-V&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Salvatore-V&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 
